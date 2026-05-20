@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schemalist gettext-domain="supradash">
+  <schema id="org.gnome.shell.extensions.supradash" path="/org/gnome/shell/extensions/supradash/">
+    <!-- Debug -->
+    <key name="debug-mode" type="b">
+      <default>false</default>
+      <summary>Enable debug mode</summary>
+      <description>Show verbose logs and debug information</description>
+    </key>
+
+    <!-- Position & Layout -->
+    <key name="dock-position" type="s">
+      <default>"BOTTOM"</default>
+      <summary>Dock position on screen</summary>
+      <description>Position of the dock: TOP, BOTTOM, LEFT, RIGHT</description>
+    </key>
+
+    <key name="icon-size" type="i">
+      <default>48</default>
+      <summary>Base icon size in pixels</summary>
+      <description>Base size for dock icons</description>
+    </key>
+
+    <key name="min-icon-size" type="i">
+      <default>24</default>
+      <summary>Minimum icon size when shrinking</summary>
+      <description>Minimum size icons can shrink to</description>
+    </key>
+
+    <key name="auto-shrink" type="b">
+      <default>true</default>
+      <summary>Enable auto-shrink</summary>
+      <description>Automatically shrink dock when content exceeds available space</description>
+    </key>
+
+    <!-- Behavior -->
+    <key name="workspace-filter" type="s">
+      <default>"current"</default>
+      <summary>Workspace filter mode</summary>
+      <description>Show windows from 'current' or 'all' workspaces</description>
+    </key>
+
+    <key name="show-recent-apps" type="b">
+      <default>true</default>
+      <summary>Show recent applications</summary>
+      <description>Show recently used applications in dock</description>
+    </key>
+
+    <key name="recent-apps-limit" type="i">
+      <default>5</default>
+      <summary>Maximum number of recent apps</summary>
+      <description>Maximum number of recent applications to show</description>
+    </key>
+
+    <key name="show-thumbnails" type="b">
+      <default>true</default>
+      <summary>Show window thumbnails</summary>
+      <description>Show thumbnails for minimized windows</description>
+    </key>
+
+    <!-- Appearance -->
+    <key name="separator-visible" type="b">
+      <default>true</default>
+      <summary>Show separators between sections</summary>
+      <description>Show visual separators between dock sections</description>
+    </key>
+
+    <key name="dock-margin" type="i">
+      <default>8</default>
+      <summary>Dock margin from screen edge</summary>
+      <description>Margin in pixels from screen edge</description>
+    </key>
+  </schema>
+</schemalist>

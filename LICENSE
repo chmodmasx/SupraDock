@@ -1,0 +1,74 @@
+# GPL-3.0 License
+
+Copyright (c) 2024 SupraDash Contributors
+
+This program is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with this program. If not, see <https://www.gnu.org/licenses/>.
+
+---
+
+### Terms and Conditions
+
+#### 1. Definitions
+
+"License" refers to version 3 of the GNU General Public License.
+"The Program" refers to the SupraDash GNOME Shell extension.
+"You" refers to the individual or entity exercising permissions granted by this License.
+
+#### 2. Source Code
+
+The source code for this program is available at the project repository.
+Any modifications must be clearly marked as such and dated.
+
+#### 3. Basic Permissions
+
+All rights granted under copyright law are granted under this License,
+provided you comply with its terms. This License explicitly permits
+running the unmodified Program.
+
+#### 4. Conveying Verbatim Copies
+
+You may convey verbatim copies of the Program's source code as you
+receive it, in any medium, provided that you:
+- Display an appropriate copyright notice
+- Keep intact all notices stating that this License applies
+- Give recipients a copy of this License
+
+#### 5. Conveying Modified Versions
+
+You may convey a work based on the Program if you:
+- Carry prominent notices stating that you modified it
+- Carry prominent notices with date of modification
+- License the entire work under this License
+- Make source code available to recipients
+
+#### 6. Disclaimer of Warranty
+
+THIS SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
+IN NO EVENT SHALL THE AUTHORS BE LIABLE FOR ANY CLAIM, DAMAGES OR
+OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE,
+ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE
+OR OTHER DEALINGS IN THE SOFTWARE.
+
+#### 7. Limitation of Liability
+
+IN NO EVENT UNLESS REQUIRED BY APPLICABLE LAW OR AGREED TO IN WRITING
+WILL ANY COPYRIGHT HOLDER BE LIABLE TO YOU FOR DAMAGES, INCLUDING ANY
+GENERAL, SPECIAL, INCIDENTAL OR CONSEQUENTIAL DAMAGES ARISING OUT OF
+THE USE OR INABILITY TO USE THE PROGRAM.
+
+---
+
+For the complete license text, visit: https://www.gnu.org/licenses/gpl-3.0.html

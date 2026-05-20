@@ -1,0 +1,9 @@
+{
+  "uuid": "SupraDash@local",
+  "name": "SupraDash",
+  "description": "Native, autonomous and resilient dock for GNOME Shell 50+ (Wayland-first)",
+  "version": "0.1.0",
+  "shell-version": ["50", "51"],
+  "url": "https://github.com/example/SupraDash",
+  "settings-schema": "org.gnome.shell.extensions.supradash"
+}
